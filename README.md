@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://github.com/fmanimashaun/frontend-mentor-challenge/tree/main/product-preview-card-component)
-- Live Site URL: [Click here](https://fmanimashaun.github.io/frontend-mentor-challenge/product-preview-card-component/main/index.html)
+- Solution URL: [Click here](https://github.com/fmanimashaun/product-preview-card-component)
+- Live Site URL: [Click here](https://fmanimashaun.github.io/product-preview-card-component/)
 
 ## My process
 
@@ -73,6 +73,5 @@ I still have a lot to learn on layout using flexbox and grid and I will be focus
 - Website - [Personal site under development](https://fmanimashaun.com)
 - Frontend Mentor - [@fmanimashaun](https://www.frontendmentor.io/profile/fmanimashaun)
 - Twitter - [@fmanimashaun](https://twitter.com/fmanimashaun)
-
 
 ## Acknowledgments
